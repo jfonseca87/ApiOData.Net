@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/API_ODATA
+/API_ODATA/bin
+/API_ODATA/obj/Debug
+/packages
